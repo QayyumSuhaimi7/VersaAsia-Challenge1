@@ -1,7 +1,7 @@
 ## Instructions for Visual Studio Code
 
 1. Clone the repository to your local machine.
-2. In the sidebar, click on "Explorer" to open the "JAVA PROJECTS".
+2. In the sidebar, click on "Explorer" to open the "Java Projects".
 3. Locate the "Referenced Libraries" section, click on the "+" icon, and select the json-simple-1.1.1.jar file to add it to your project.
 4. Navigate to the src folder and run the App.java file to execute the program.
 
