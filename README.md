@@ -1,4 +1,4 @@
-## Instructions for Visual Studio Code
+## Instructions (Visual Studio Code)
 
 1. Clone the repository to your local machine.
 2. In the sidebar, click on "Explorer" to open the "Java Projects".
